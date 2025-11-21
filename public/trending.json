@@ -1,0 +1,3757 @@
+{
+  "updatedAt": "2025-11-21T02:33:06.791Z",
+  "regions": [
+    {
+      "code": "US",
+      "label": "United States",
+      "searches": [
+        {
+          "title": "bills vs texans",
+          "traffic": "500,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bills+vs+texans&tz=420"
+        },
+        {
+          "title": "hunger games sunrise on the reaping",
+          "traffic": "100,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hunger+games+sunrise+on+the+reaping&tz=420"
+        },
+        {
+          "title": "spencer lofranco",
+          "traffic": "50,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=spencer+lofranco&tz=420"
+        },
+        {
+          "title": "pachuca - pumas",
+          "traffic": "50,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pachuca+-+pumas&tz=420"
+        },
+        {
+          "title": "where to watch miss universe 2025",
+          "traffic": "50,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=where+to+watch+miss+universe+2025&tz=420"
+        },
+        {
+          "title": "josh allen",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=josh+allen&tz=420"
+        },
+        {
+          "title": "hawks vs spurs",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hawks+vs+spurs&tz=420"
+        },
+        {
+          "title": "the grinch meals",
+          "traffic": "50,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=the+grinch+meals&tz=420"
+        },
+        {
+          "title": "76ers vs bucks",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=76ers+vs+bucks&tz=420"
+        },
+        {
+          "title": "clippers vs magic",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=clippers+vs+magic&tz=420"
+        },
+        {
+          "title": "sedition",
+          "traffic": "50,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sedition&tz=420"
+        },
+        {
+          "title": "dick cheney funeral",
+          "traffic": "200,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dick+cheney+funeral&tz=420"
+        },
+        {
+          "title": "nico collins",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nico+collins&tz=420"
+        },
+        {
+          "title": "sports",
+          "traffic": "50,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sports&tz=420"
+        },
+        {
+          "title": "kings vs grizzlies",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kings+vs+grizzlies&tz=420"
+        },
+        {
+          "title": "cj stroud",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cj+stroud&tz=420"
+        },
+        {
+          "title": "cdc",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cdc&tz=420"
+        },
+        {
+          "title": "keon coleman",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=keon+coleman&tz=420"
+        },
+        {
+          "title": "after the hunt",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=after+the+hunt&tz=420"
+        },
+        {
+          "title": "nicole staples",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nicole+staples&tz=420"
+        },
+        {
+          "title": "ryan eagon",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ryan+eagon&tz=420"
+        },
+        {
+          "title": "woody marks",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=woody+marks&tz=420"
+        },
+        {
+          "title": "coast guard hate symbols",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=coast+guard+hate+symbols&tz=420"
+        },
+        {
+          "title": "natalie greene",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=natalie+greene&tz=420"
+        },
+        {
+          "title": "purdue basketball",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=purdue+basketball&tz=420"
+        },
+        {
+          "title": "jelly roll",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jelly+roll&tz=420"
+        },
+        {
+          "title": "chadwick boseman",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chadwick+boseman&tz=420"
+        },
+        {
+          "title": "hailee steinfeld",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hailee+steinfeld&tz=420"
+        },
+        {
+          "title": "kevin spacey net worth",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kevin+spacey+net+worth&tz=420"
+        },
+        {
+          "title": "telemundo",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=telemundo&tz=420"
+        },
+        {
+          "title": "khalil shakir",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=khalil+shakir&tz=420"
+        },
+        {
+          "title": "pras michel",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pras+michel&tz=420"
+        },
+        {
+          "title": "rangers vs avalanche",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rangers+vs+avalanche&tz=420"
+        },
+        {
+          "title": "nano banana pro",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nano+banana+pro&tz=420"
+        },
+        {
+          "title": "islanders vs red wings",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=islanders+vs+red+wings&tz=420"
+        },
+        {
+          "title": "chase stokes",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chase+stokes&tz=420"
+        },
+        {
+          "title": "donde ver miss universo 2025",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=donde+ver+miss+universo+2025&tz=420"
+        },
+        {
+          "title": "woody marks stats",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=woody+marks+stats&tz=420"
+        },
+        {
+          "title": "miss universo 2025",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=miss+universo+2025&tz=420"
+        },
+        {
+          "title": "kenneth mcfarland",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kenneth+mcfarland&tz=420"
+        },
+        {
+          "title": "kraken vs blackhawks",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kraken+vs+blackhawks&tz=420"
+        },
+        {
+          "title": "lindenwood vs indiana",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lindenwood+vs+indiana&tz=420"
+        },
+        {
+          "title": "verizon layoffs",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=verizon+layoffs&tz=420"
+        },
+        {
+          "title": "man on the inside",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=man+on+the+inside&tz=420"
+        },
+        {
+          "title": "miss universe latina",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=miss+universe+latina&tz=420"
+        },
+        {
+          "title": "aus vs eng",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=aus+vs+eng&tz=420"
+        },
+        {
+          "title": "dalton schultz",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dalton+schultz&tz=420"
+        },
+        {
+          "title": "capitals vs canadiens",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=capitals+vs+canadiens&tz=420"
+        },
+        {
+          "title": "ps5 black friday deals",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ps5+black+friday+deals&tz=420"
+        },
+        {
+          "title": "wemby injury",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=wemby+injury&tz=420"
+        },
+        {
+          "title": "atlético nacional - américa",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=atl%C3%A9tico+nacional+-+am%C3%A9rica&tz=420"
+        },
+        {
+          "title": "nebraska basketball",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nebraska+basketball&tz=420"
+        },
+        {
+          "title": "spanx",
+          "traffic": "50,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=spanx&tz=420"
+        },
+        {
+          "title": "blues vs flyers",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blues+vs+flyers&tz=420"
+        },
+        {
+          "title": "joe mixon",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=joe+mixon&tz=420"
+        },
+        {
+          "title": "gabe davis",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gabe+davis&tz=420"
+        },
+        {
+          "title": "arkansas state football",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=arkansas+state+football&tz=420"
+        },
+        {
+          "title": "devils vs panthers",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=devils+vs+panthers&tz=420"
+        },
+        {
+          "title": "jayden higgins",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jayden+higgins&tz=420"
+        },
+        {
+          "title": "brandi carlile",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=brandi+carlile&tz=420"
+        },
+        {
+          "title": "nursing professional degree",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nursing+professional+degree&tz=420"
+        },
+        {
+          "title": "telemundo en vivo",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=telemundo+en+vivo&tz=420"
+        },
+        {
+          "title": "golden knights vs mammoth",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=golden+knights+vs+mammoth&tz=420"
+        },
+        {
+          "title": "wicked 2",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=wicked+2&tz=420"
+        },
+        {
+          "title": "paul george",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=paul+george&tz=420"
+        },
+        {
+          "title": "demeco ryans",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=demeco+ryans&tz=420"
+        },
+        {
+          "title": "tank dell",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tank+dell&tz=420"
+        },
+        {
+          "title": "damar hamlin",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=damar+hamlin&tz=420"
+        },
+        {
+          "title": "tyler bass",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tyler+bass&tz=420"
+        },
+        {
+          "title": "oilers vs lightning",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=oilers+vs+lightning&tz=420"
+        },
+        {
+          "title": "the odyssey",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=the+odyssey&tz=420"
+        },
+        {
+          "title": "iowa basketball",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=iowa+basketball&tz=420"
+        },
+        {
+          "title": "yamilex hernández",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=yamilex+hern%C3%A1ndez&tz=420"
+        },
+        {
+          "title": "tennessee basketball",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tennessee+basketball&tz=420"
+        },
+        {
+          "title": "jeanie buss",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jeanie+buss&tz=420"
+        },
+        {
+          "title": "homeland",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=homeland&tz=420"
+        },
+        {
+          "title": "texans quarterback",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=texans+quarterback&tz=420"
+        },
+        {
+          "title": "miss universe latina 2025",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=miss+universe+latina+2025&tz=420"
+        },
+        {
+          "title": "malta",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=malta&tz=420"
+        },
+        {
+          "title": "corey seager",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=corey+seager&tz=420"
+        },
+        {
+          "title": "ben feldman",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ben+feldman&tz=420"
+        },
+        {
+          "title": "miss universo",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=miss+universo&tz=420"
+        },
+        {
+          "title": "buffalo bills schedule",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=buffalo+bills+schedule&tz=420"
+        },
+        {
+          "title": "ucf basketball",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ucf+basketball&tz=420"
+        },
+        {
+          "title": "bucky irving",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bucky+irving&tz=420"
+        },
+        {
+          "title": "blue jackets vs maple leafs",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blue+jackets+vs+maple+leafs&tz=420"
+        },
+        {
+          "title": "everybody loves raymond reunion",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=everybody+loves+raymond+reunion&tz=420"
+        },
+        {
+          "title": "texas tech basketball",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=texas+tech+basketball&tz=420"
+        },
+        {
+          "title": "miss jamaica falls off stage",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=miss+jamaica+falls+off+stage&tz=420"
+        },
+        {
+          "title": "dameon pierce",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dameon+pierce&tz=420"
+        },
+        {
+          "title": "amazon settlement",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazon+settlement&tz=420"
+        },
+        {
+          "title": "winona ryder",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=winona+ryder&tz=420"
+        },
+        {
+          "title": "golden joystick awards 2025",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=golden+joystick+awards+2025&tz=420"
+        },
+        {
+          "title": "jalen suggs",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jalen+suggs&tz=420"
+        },
+        {
+          "title": "25th amendment",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=25th+amendment&tz=420"
+        },
+        {
+          "title": "scott kirby american airlines",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=scott+kirby+american+airlines&tz=420"
+        },
+        {
+          "title": "cody johnson",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cody+johnson&tz=420"
+        },
+        {
+          "title": "texans coach",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=texans+coach&tz=420"
+        },
+        {
+          "title": "desmond bane",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=desmond+bane&tz=420"
+        },
+        {
+          "title": "f1 las vegas",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=f1+las+vegas&tz=420"
+        },
+        {
+          "title": "family man season 3",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=family+man+season+3&tz=420"
+        },
+        {
+          "title": "thanksgiving football games",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=thanksgiving+football+games&tz=420"
+        },
+        {
+          "title": "iowa men's basketball",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=iowa+men%27s+basketball&tz=420"
+        },
+        {
+          "title": "jordan poyer",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jordan+poyer&tz=420"
+        },
+        {
+          "title": "texans score",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=texans+score&tz=420"
+        },
+        {
+          "title": "lainey wilson fiance",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lainey+wilson+fiance&tz=420"
+        },
+        {
+          "title": "lsu women's basketball",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lsu+women%27s+basketball&tz=420"
+        },
+        {
+          "title": "joey bosa",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=joey+bosa&tz=420"
+        },
+        {
+          "title": "lili estefan",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lili+estefan&tz=420"
+        },
+        {
+          "title": "lamelo ball",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lamelo+ball&tz=420"
+        },
+        {
+          "title": "the carman family deaths",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=the+carman+family+deaths&tz=420"
+        },
+        {
+          "title": "demar derozan",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=demar+derozan&tz=420"
+        },
+        {
+          "title": "pat beverley",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pat+beverley&tz=420"
+        },
+        {
+          "title": "guadeloupe",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=guadeloupe&tz=420"
+        },
+        {
+          "title": "peacock",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=peacock&tz=420"
+        },
+        {
+          "title": "jobs report",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jobs+report&tz=420"
+        },
+        {
+          "title": "cote d'ivoire",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cote+d%27ivoire&tz=420"
+        },
+        {
+          "title": "thanksgiving nfl games",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=thanksgiving+nfl+games&tz=420"
+        },
+        {
+          "title": "nasdaq",
+          "traffic": "50,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nasdaq&tz=420"
+        },
+        {
+          "title": "turkey",
+          "traffic": "50,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=turkey&tz=420"
+        },
+        {
+          "title": "trevon diggs",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=trevon+diggs&tz=420"
+        },
+        {
+          "title": "tyrell shavers",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tyrell+shavers&tz=420"
+        },
+        {
+          "title": "paulina porizkova",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=paulina+porizkova&tz=420"
+        },
+        {
+          "title": "ncaa soccer tournament",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ncaa+soccer+tournament&tz=420"
+        },
+        {
+          "title": "matlock season 2",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=matlock+season+2&tz=420"
+        },
+        {
+          "title": "houston oilers",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=houston+oilers&tz=420"
+        },
+        {
+          "title": "tig notaro",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tig+notaro&tz=420"
+        },
+        {
+          "title": "frida kahlo",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=frida+kahlo&tz=420"
+        },
+        {
+          "title": "aj green",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=aj+green&tz=420"
+        },
+        {
+          "title": "danielle hunter",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=danielle+hunter&tz=420"
+        },
+        {
+          "title": "nrg stadium",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nrg+stadium&tz=420"
+        },
+        {
+          "title": "south dakota vs missouri",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=south+dakota+vs+missouri&tz=420"
+        },
+        {
+          "title": "kansas state basketball",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kansas+state+basketball&tz=420"
+        },
+        {
+          "title": "nfl week 12",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nfl+week+12&tz=420"
+        },
+        {
+          "title": "chelsea vs barcelona",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chelsea+vs+barcelona&tz=420"
+        },
+        {
+          "title": "absentia cast",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=absentia+cast&tz=420"
+        },
+        {
+          "title": "stock market",
+          "traffic": "50,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=stock+market&tz=420"
+        },
+        {
+          "title": "valley forge",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=valley+forge&tz=420"
+        },
+        {
+          "title": "corinthians vs são paulo",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=corinthians+vs+s%C3%A3o+paulo&tz=420"
+        },
+        {
+          "title": "where to watch c.f. pachuca vs pumas unam",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=where+to+watch+c.f.+pachuca+vs+pumas+unam&tz=420"
+        },
+        {
+          "title": "mani stone roses",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mani+stone+roses&tz=420"
+        },
+        {
+          "title": "lina luaces",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lina+luaces&tz=420"
+        },
+        {
+          "title": "chelsea - barcelona",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chelsea+-+barcelona&tz=420"
+        },
+        {
+          "title": "alex lange",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alex+lange&tz=420"
+        },
+        {
+          "title": "jason momoa",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jason+momoa&tz=420"
+        },
+        {
+          "title": "ed oliver",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ed+oliver&tz=420"
+        },
+        {
+          "title": "walmart stock",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walmart+stock&tz=420"
+        },
+        {
+          "title": "kara on jeopardy today",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kara+on+jeopardy+today&tz=420"
+        },
+        {
+          "title": "benedict cumberbatch",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=benedict+cumberbatch&tz=420"
+        },
+        {
+          "title": "zach edey",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=zach+edey&tz=420"
+        },
+        {
+          "title": "harrison ford",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=harrison+ford&tz=420"
+        },
+        {
+          "title": "flash flood warning",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=flash+flood+warning&tz=420"
+        },
+        {
+          "title": "james franco",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=james+franco&tz=420"
+        },
+        {
+          "title": "ryan fitzpatrick",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ryan+fitzpatrick&tz=420"
+        },
+        {
+          "title": "cma winners",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cma+winners&tz=420"
+        },
+        {
+          "title": "penny hardaway",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=penny+hardaway&tz=420"
+        },
+        {
+          "title": "mil vs phi",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mil+vs+phi&tz=420"
+        },
+        {
+          "title": "wmt stock",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=wmt+stock&tz=420"
+        },
+        {
+          "title": "texans record",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=texans+record&tz=420"
+        },
+        {
+          "title": "iowa state women's basketball",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=iowa+state+women%27s+basketball&tz=420"
+        },
+        {
+          "title": "fear and greed index",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fear+and+greed+index&tz=420"
+        },
+        {
+          "title": "morocco",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=morocco&tz=420"
+        },
+        {
+          "title": "bucknell university",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bucknell+university&tz=420"
+        },
+        {
+          "title": "bruins vs ducks",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bruins+vs+ducks&tz=420"
+        },
+        {
+          "title": "accenture",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=accenture&tz=420"
+        },
+        {
+          "title": "juventude vs cruzeiro",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=juventude+vs+cruzeiro&tz=420"
+        },
+        {
+          "title": "levi's stadium",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=levi%27s+stadium&tz=420"
+        },
+        {
+          "title": "china",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=china&tz=420"
+        },
+        {
+          "title": "derik queen",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=derik+queen&tz=420"
+        },
+        {
+          "title": "java",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=java&tz=420"
+        },
+        {
+          "title": "cross-border",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cross-border&tz=420"
+        },
+        {
+          "title": "us-china",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=us-china&tz=420"
+        },
+        {
+          "title": "lottery powerball winning numbers",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lottery+powerball+winning+numbers&tz=420"
+        },
+        {
+          "title": "julianne moore",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=julianne+moore&tz=420"
+        },
+        {
+          "title": "dji",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dji&tz=420"
+        },
+        {
+          "title": "juventude x cruzeiro",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=juventude+x+cruzeiro&tz=420"
+        },
+        {
+          "title": "sage steele",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sage+steele&tz=420"
+        },
+        {
+          "title": "exact sciences",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=exact+sciences&tz=420"
+        },
+        {
+          "title": "shameless",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=shameless&tz=420"
+        },
+        {
+          "title": "serena williams",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=serena+williams&tz=420"
+        },
+        {
+          "title": "jasmine crockett",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jasmine+crockett&tz=420"
+        },
+        {
+          "title": "high point basketball",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=high+point+basketball&tz=420"
+        },
+        {
+          "title": "severe thunderstorm warning",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=severe+thunderstorm+warning&tz=420"
+        },
+        {
+          "title": "drug",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=drug&tz=420"
+        },
+        {
+          "title": "thailand",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=thailand&tz=420"
+        },
+        {
+          "title": "oecd",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=oecd&tz=420"
+        },
+        {
+          "title": "mayotte",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mayotte&tz=420"
+        },
+        {
+          "title": "mn wild",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mn+wild&tz=420"
+        },
+        {
+          "title": "george strait",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=george+strait&tz=420"
+        },
+        {
+          "title": "smart",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=smart&tz=420"
+        },
+        {
+          "title": "lily allen",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lily+allen&tz=420"
+        },
+        {
+          "title": "arc raiders outage",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=arc+raiders+outage&tz=420"
+        },
+        {
+          "title": "online",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=online&tz=420"
+        },
+        {
+          "title": "coby white",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=coby+white&tz=420"
+        },
+        {
+          "title": "patty loveless",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=patty+loveless&tz=420"
+        },
+        {
+          "title": "jeopardy today",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jeopardy+today&tz=420"
+        },
+        {
+          "title": "rsm classic",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rsm+classic&tz=420"
+        },
+        {
+          "title": "ultra processed foods",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ultra+processed+foods&tz=420"
+        },
+        {
+          "title": "poland",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=poland&tz=420"
+        },
+        {
+          "title": "nebius",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nebius&tz=420"
+        },
+        {
+          "title": "word",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=word&tz=420"
+        },
+        {
+          "title": "whale",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=whale&tz=420"
+        },
+        {
+          "title": "tristan da silva",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tristan+da+silva&tz=420"
+        },
+        {
+          "title": "bahia vs fortaleza",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bahia+vs+fortaleza&tz=420"
+        },
+        {
+          "title": "ariana grande",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ariana+grande&tz=420"
+        },
+        {
+          "title": "immigration ice",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=immigration+ice&tz=420"
+        },
+        {
+          "title": "ocean",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ocean&tz=420"
+        },
+        {
+          "title": "robert wagner",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=robert+wagner&tz=420"
+        },
+        {
+          "title": "dept of education",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dept+of+education&tz=420"
+        },
+        {
+          "title": "australian",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=australian&tz=420"
+        },
+        {
+          "title": "xiamen",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=xiamen&tz=420"
+        },
+        {
+          "title": "blockchain",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=blockchain&tz=420"
+        },
+        {
+          "title": "maglev",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=maglev&tz=420"
+        },
+        {
+          "title": "mckinsey",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mckinsey&tz=420"
+        },
+        {
+          "title": "knicks",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=knicks&tz=420"
+        },
+        {
+          "title": "earths",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=earths&tz=420"
+        },
+        {
+          "title": "polar vortex",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=polar+vortex&tz=420"
+        },
+        {
+          "title": "mars",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mars&tz=420"
+        },
+        {
+          "title": "energy",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=energy&tz=420"
+        },
+        {
+          "title": "european",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=european&tz=420"
+        },
+        {
+          "title": "jeopardy tonight",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jeopardy+tonight&tz=420"
+        },
+        {
+          "title": "taylor swift",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=taylor+swift&tz=420"
+        },
+        {
+          "title": "macy's thanksgiving day parade",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=macy%27s+thanksgiving+day+parade&tz=420"
+        },
+        {
+          "title": "survivor season 49",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=survivor+season+49&tz=420"
+        },
+        {
+          "title": "william",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=william&tz=420"
+        },
+        {
+          "title": "binance",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=binance&tz=420"
+        },
+        {
+          "title": "stuart scott",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=stuart+scott&tz=420"
+        },
+        {
+          "title": "joe biden",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=joe+biden&tz=420"
+        },
+        {
+          "title": "srl",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=srl&tz=420"
+        },
+        {
+          "title": "school",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=school&tz=420"
+        },
+        {
+          "title": "top",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=top&tz=420"
+        },
+        {
+          "title": "waymo",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=waymo&tz=420"
+        },
+        {
+          "title": "nike",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nike&tz=420"
+        },
+        {
+          "title": "xiaomi",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=xiaomi&tz=420"
+        },
+        {
+          "title": "stanford",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=stanford&tz=420"
+        },
+        {
+          "title": "space",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=space&tz=420"
+        },
+        {
+          "title": "asia",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=asia&tz=420"
+        },
+        {
+          "title": "clash",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=clash&tz=420"
+        },
+        {
+          "title": "german",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=german&tz=420"
+        },
+        {
+          "title": "casino royale",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=casino+royale&tz=420"
+        },
+        {
+          "title": "sri",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sri&tz=420"
+        },
+        {
+          "title": "vince gill wife",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=vince+gill+wife&tz=420"
+        },
+        {
+          "title": "jim edmonds",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jim+edmonds&tz=420"
+        },
+        {
+          "title": "kara brown jeopardy contestant",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kara+brown+jeopardy+contestant&tz=420"
+        },
+        {
+          "title": "spy",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=spy&tz=420"
+        },
+        {
+          "title": "jeff goldblum",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jeff+goldblum&tz=420"
+        },
+        {
+          "title": "uk",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=uk&tz=420"
+        },
+        {
+          "title": "iea",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=iea&tz=420"
+        },
+        {
+          "title": "ieee",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ieee&tz=420"
+        },
+        {
+          "title": "jorge polanco",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jorge+polanco&tz=420"
+        },
+        {
+          "title": "eternals",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=eternals&tz=420"
+        },
+        {
+          "title": "airpods pro 3",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=airpods+pro+3&tz=420"
+        },
+        {
+          "title": "sirius xm",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sirius+xm&tz=420"
+        },
+        {
+          "title": "marshall basketball",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=marshall+basketball&tz=420"
+        },
+        {
+          "title": "denmark",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=denmark&tz=420"
+        },
+        {
+          "title": "power",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=power&tz=420"
+        },
+        {
+          "title": "runway",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=runway&tz=420"
+        },
+        {
+          "title": "lena waithe",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lena+waithe&tz=420"
+        },
+        {
+          "title": "sirius",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sirius&tz=420"
+        },
+        {
+          "title": "steam down",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=steam+down&tz=420"
+        },
+        {
+          "title": "future",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=future&tz=420"
+        },
+        {
+          "title": "suni lee",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=suni+lee&tz=420"
+        },
+        {
+          "title": "uber stock",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=uber+stock&tz=420"
+        },
+        {
+          "title": "vr",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=vr&tz=420"
+        },
+        {
+          "title": "benchmark",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=benchmark&tz=420"
+        },
+        {
+          "title": "kobe",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kobe&tz=420"
+        },
+        {
+          "title": "bangladesh vs ireland",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bangladesh+vs+ireland&tz=420"
+        },
+        {
+          "title": "bloomberg",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bloomberg&tz=420"
+        },
+        {
+          "title": "un",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=un&tz=420"
+        },
+        {
+          "title": "economic",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=economic&tz=420"
+        },
+        {
+          "title": "bethune cookman",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bethune+cookman&tz=420"
+        },
+        {
+          "title": "andrej stojakovic",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=andrej+stojakovic&tz=420"
+        },
+        {
+          "title": "capitol fire",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=capitol+fire&tz=420"
+        },
+        {
+          "title": "iot",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=iot&tz=420"
+        },
+        {
+          "title": "germany",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=germany&tz=420"
+        },
+        {
+          "title": "pga tour",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pga+tour&tz=420"
+        },
+        {
+          "title": "vietnam",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=vietnam&tz=420"
+        },
+        {
+          "title": "d'angelo russell",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=d%27angelo+russell&tz=420"
+        },
+        {
+          "title": "travel",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=travel&tz=420"
+        },
+        {
+          "title": "morningstar",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=morningstar&tz=420"
+        },
+        {
+          "title": "arc raiders patch notes",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=arc+raiders+patch+notes&tz=420"
+        },
+        {
+          "title": "connection",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=connection&tz=420"
+        },
+        {
+          "title": "bp",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bp&tz=420"
+        },
+        {
+          "title": "tobacco",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tobacco&tz=420"
+        },
+        {
+          "title": "corruption",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=corruption&tz=420"
+        },
+        {
+          "title": "urban",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=urban&tz=420"
+        },
+        {
+          "title": "testing",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=testing&tz=420"
+        },
+        {
+          "title": "national",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=national&tz=420"
+        },
+        {
+          "title": "cnbc",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cnbc&tz=420"
+        },
+        {
+          "title": "coal",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=coal&tz=420"
+        },
+        {
+          "title": "martech",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=martech&tz=420"
+        },
+        {
+          "title": "ethereum",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ethereum&tz=420"
+        },
+        {
+          "title": "hsv",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hsv&tz=420"
+        },
+        {
+          "title": "nist",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nist&tz=420"
+        },
+        {
+          "title": "naji marshall",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=naji+marshall&tz=420"
+        },
+        {
+          "title": "vix",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=vix&tz=420"
+        },
+        {
+          "title": "agent",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=agent&tz=420"
+        },
+        {
+          "title": "mavis leno",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mavis+leno&tz=420"
+        },
+        {
+          "title": "wfaa radar",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=wfaa+radar&tz=420"
+        },
+        {
+          "title": "mikal bridges",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mikal+bridges&tz=420"
+        },
+        {
+          "title": "aftyn behn",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=aftyn+behn&tz=420"
+        },
+        {
+          "title": "investment",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=investment&tz=420"
+        },
+        {
+          "title": "vestas",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=vestas&tz=420"
+        },
+        {
+          "title": "finland",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=finland&tz=420"
+        },
+        {
+          "title": "catholic",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=catholic&tz=420"
+        },
+        {
+          "title": "lynn",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lynn&tz=420"
+        },
+        {
+          "title": "surface",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=surface&tz=420"
+        },
+        {
+          "title": "cair",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cair&tz=420"
+        },
+        {
+          "title": "canada",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=canada&tz=420"
+        },
+        {
+          "title": "tesla",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tesla&tz=420"
+        },
+        {
+          "title": "public",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=public&tz=420"
+        },
+        {
+          "title": "jake",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jake&tz=420"
+        },
+        {
+          "title": "who is vince gill married to",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=who+is+vince+gill+married+to&tz=420"
+        },
+        {
+          "title": "dbb",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dbb&tz=420"
+        },
+        {
+          "title": "shandong",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=shandong&tz=420"
+        },
+        {
+          "title": "infant",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=infant&tz=420"
+        },
+        {
+          "title": "shell",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=shell&tz=420"
+        },
+        {
+          "title": "maddison",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=maddison&tz=420"
+        },
+        {
+          "title": "queensland",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=queensland&tz=420"
+        },
+        {
+          "title": "josh giddey",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=josh+giddey&tz=420"
+        },
+        {
+          "title": "standard",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=standard&tz=420"
+        },
+        {
+          "title": "statista",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=statista&tz=420"
+        },
+        {
+          "title": "david",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=david&tz=420"
+        },
+        {
+          "title": "supreme",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=supreme&tz=420"
+        },
+        {
+          "title": "nydia velazquez",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nydia+velazquez&tz=420"
+        },
+        {
+          "title": "nick fuentes",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nick+fuentes&tz=420"
+        },
+        {
+          "title": "post-pandemic",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=post-pandemic&tz=420"
+        },
+        {
+          "title": "meissen",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=meissen&tz=420"
+        },
+        {
+          "title": "busybody buzz",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=busybody+buzz&tz=420"
+        },
+        {
+          "title": "court",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=court&tz=420"
+        },
+        {
+          "title": "jordon hudson",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jordon+hudson&tz=420"
+        },
+        {
+          "title": "nia",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nia&tz=420"
+        },
+        {
+          "title": "kyrie irving",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kyrie+irving&tz=420"
+        },
+        {
+          "title": "siemens",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=siemens&tz=420"
+        },
+        {
+          "title": "noise",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=noise&tz=420"
+        },
+        {
+          "title": "sentinelone",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sentinelone&tz=420"
+        },
+        {
+          "title": "huawei",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=huawei&tz=420"
+        },
+        {
+          "title": "vertex",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=vertex&tz=420"
+        },
+        {
+          "title": "john malone",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=john+malone&tz=420"
+        },
+        {
+          "title": "cancer",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cancer&tz=420"
+        },
+        {
+          "title": "bluescope",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bluescope&tz=420"
+        },
+        {
+          "title": "kristin chenoweth",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kristin+chenoweth&tz=420"
+        },
+        {
+          "title": "olivia munn",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=olivia+munn&tz=420"
+        },
+        {
+          "title": "famous",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=famous&tz=420"
+        },
+        {
+          "title": "government",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=government&tz=420"
+        },
+        {
+          "title": "asean",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=asean&tz=420"
+        },
+        {
+          "title": "gwec",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gwec&tz=420"
+        },
+        {
+          "title": "ali larter",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ali+larter&tz=420"
+        },
+        {
+          "title": "fujian",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fujian&tz=420"
+        },
+        {
+          "title": "low-carbon",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=low-carbon&tz=420"
+        },
+        {
+          "title": "guangdong",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=guangdong&tz=420"
+        },
+        {
+          "title": "adam sandler",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=adam+sandler&tz=420"
+        },
+        {
+          "title": "everything",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=everything&tz=420"
+        },
+        {
+          "title": "easa",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=easa&tz=420"
+        },
+        {
+          "title": "is cooper flagg playing tonight",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=is+cooper+flagg+playing+tonight&tz=420"
+        },
+        {
+          "title": "tucson weather",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tucson+weather&tz=420"
+        },
+        {
+          "title": "new",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=new&tz=420"
+        },
+        {
+          "title": "riley gaines",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=riley+gaines&tz=420"
+        },
+        {
+          "title": "hailey van lith",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hailey+van+lith&tz=420"
+        },
+        {
+          "title": "sl vs zim",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sl+vs+zim&tz=420"
+        },
+        {
+          "title": "dolly parton",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dolly+parton&tz=420"
+        },
+        {
+          "title": "mu stock",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mu+stock&tz=420"
+        },
+        {
+          "title": "philippines",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=philippines&tz=420"
+        },
+        {
+          "title": "converse",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=converse&tz=420"
+        },
+        {
+          "title": "bold and beautiful spoilers",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bold+and+beautiful+spoilers&tz=420"
+        },
+        {
+          "title": "joseph deangelo",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=joseph+deangelo&tz=420"
+        },
+        {
+          "title": "gary sinise",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gary+sinise&tz=420"
+        },
+        {
+          "title": "ivy league schools",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ivy+league+schools&tz=420"
+        },
+        {
+          "title": "selena quintanilla autopsy",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=selena+quintanilla+autopsy&tz=420"
+        },
+        {
+          "title": "fmc",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fmc&tz=420"
+        },
+        {
+          "title": "fina",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fina&tz=420"
+        },
+        {
+          "title": "vampire crawlers",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=vampire+crawlers&tz=420"
+        },
+        {
+          "title": "renee rapp",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=renee+rapp&tz=420"
+        },
+        {
+          "title": "ehv 1 outbreak",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ehv+1+outbreak&tz=420"
+        },
+        {
+          "title": "nicholas riccio",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nicholas+riccio&tz=420"
+        },
+        {
+          "title": "eth",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=eth&tz=420"
+        },
+        {
+          "title": "levi stadium",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=levi+stadium&tz=420"
+        },
+        {
+          "title": "senate republicans",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=senate+republicans&tz=420"
+        },
+        {
+          "title": "noam chomsky",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=noam+chomsky&tz=420"
+        },
+        {
+          "title": "tqqq stock",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tqqq+stock&tz=420"
+        },
+        {
+          "title": "imf",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=imf&tz=420"
+        },
+        {
+          "title": "ray dalio",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ray+dalio&tz=420"
+        },
+        {
+          "title": "karl anthony towns",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=karl+anthony+towns&tz=420"
+        },
+        {
+          "title": "anadolu efes - barça",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=anadolu+efes+-+bar%C3%A7a&tz=420"
+        },
+        {
+          "title": "houston rockets",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=houston+rockets&tz=420"
+        },
+        {
+          "title": "chicago fire episodes",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chicago+fire+episodes&tz=420"
+        },
+        {
+          "title": "the wizard of oz",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=the+wizard+of+oz&tz=420"
+        },
+        {
+          "title": "big",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=big&tz=420"
+        },
+        {
+          "title": "interstellar comet 3i atlas nasa",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=interstellar+comet+3i+atlas+nasa&tz=420"
+        },
+        {
+          "title": "max christie",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=max+christie&tz=420"
+        },
+        {
+          "title": "jordan clarkson",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jordan+clarkson&tz=420"
+        },
+        {
+          "title": "kyshawn george",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kyshawn+george&tz=420"
+        },
+        {
+          "title": "fifa",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fifa&tz=420"
+        },
+        {
+          "title": "russian spy ship british waters",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=russian+spy+ship+british+waters&tz=420"
+        },
+        {
+          "title": "alan ritchson",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alan+ritchson&tz=420"
+        },
+        {
+          "title": "erap dc",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=erap+dc&tz=420"
+        },
+        {
+          "title": "mitchell robinson",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mitchell+robinson&tz=420"
+        },
+        {
+          "title": "five",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=five&tz=420"
+        },
+        {
+          "title": "rob gronkowski",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=rob+gronkowski&tz=420"
+        },
+        {
+          "title": "nyt connections answers",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nyt+connections+answers&tz=420"
+        },
+        {
+          "title": "conduent",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=conduent&tz=420"
+        },
+        {
+          "title": "nora fatehi",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nora+fatehi&tz=420"
+        },
+        {
+          "title": "amazing race",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=amazing+race&tz=420"
+        },
+        {
+          "title": "erie insurance",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=erie+insurance&tz=420"
+        },
+        {
+          "title": "california",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=california&tz=420"
+        },
+        {
+          "title": "direct deposit",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=direct+deposit&tz=420"
+        },
+        {
+          "title": "kim woo-bin",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kim+woo-bin&tz=420"
+        },
+        {
+          "title": "kiss",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kiss&tz=420"
+        },
+        {
+          "title": "anna kepner update",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=anna+kepner+update&tz=420"
+        },
+        {
+          "title": "weber state basketball",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=weber+state+basketball&tz=420"
+        },
+        {
+          "title": "new caledonia",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=new+caledonia&tz=420"
+        },
+        {
+          "title": "radar",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=radar&tz=420"
+        },
+        {
+          "title": "bull stock",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bull+stock&tz=420"
+        },
+        {
+          "title": "mmcru high school",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mmcru+high+school&tz=420"
+        },
+        {
+          "title": "lauren daigle",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lauren+daigle&tz=420"
+        },
+        {
+          "title": "economic calendar",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=economic+calendar&tz=420"
+        },
+        {
+          "title": "cherfilus-mccormick",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=cherfilus-mccormick&tz=420"
+        },
+        {
+          "title": "general conference evening session",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=general+conference+evening+session&tz=420"
+        },
+        {
+          "title": "brandon lake",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=brandon+lake&tz=420"
+        },
+        {
+          "title": "bill pulte",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bill+pulte&tz=420"
+        },
+        {
+          "title": "embark studios",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=embark+studios&tz=420"
+        },
+        {
+          "title": "내일 날씨",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=%EB%82%B4%EC%9D%BC+%EB%82%A0%EC%94%A8&tz=420"
+        },
+        {
+          "title": "shakira",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=shakira&tz=420"
+        },
+        {
+          "title": "miranda lambert husband",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=miranda+lambert+husband&tz=420"
+        },
+        {
+          "title": "pj washington",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pj+washington&tz=420"
+        },
+        {
+          "title": "jason kidd",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jason+kidd&tz=420"
+        },
+        {
+          "title": "josh hart",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=josh+hart&tz=420"
+        },
+        {
+          "title": "qqq",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=qqq&tz=420"
+        },
+        {
+          "title": "michelle wu",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=michelle+wu&tz=420"
+        },
+        {
+          "title": "anaheim ducks",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=anaheim+ducks&tz=420"
+        },
+        {
+          "title": "gwen stefani",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gwen+stefani&tz=420"
+        },
+        {
+          "title": "france",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=france&tz=420"
+        },
+        {
+          "title": "tara palmeri",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tara+palmeri&tz=420"
+        },
+        {
+          "title": "donovan clingan",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=donovan+clingan&tz=420"
+        },
+        {
+          "title": "pat spencer",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=pat+spencer&tz=420"
+        },
+        {
+          "title": "ducks hockey",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ducks+hockey&tz=420"
+        },
+        {
+          "title": "arman tsarukyan",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=arman+tsarukyan&tz=420"
+        },
+        {
+          "title": "washington state basketball",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=washington+state+basketball&tz=420"
+        },
+        {
+          "title": "world",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=world&tz=420"
+        },
+        {
+          "title": "physical asia",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=physical+asia&tz=420"
+        },
+        {
+          "title": "nasdaq index",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nasdaq+index&tz=420"
+        },
+        {
+          "title": "胡耀邦",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=%E8%83%A1%E8%80%80%E9%82%A6&tz=420"
+        },
+        {
+          "title": "wizards",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=wizards&tz=420"
+        },
+        {
+          "title": "who is brandi carlile",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=who+is+brandi+carlile&tz=420"
+        },
+        {
+          "title": "memphis weather",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=memphis+weather&tz=420"
+        },
+        {
+          "title": "is riley green married",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=is+riley+green+married&tz=420"
+        },
+        {
+          "title": "chicago pd",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chicago+pd&tz=420"
+        },
+        {
+          "title": "xfinity outage",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=xfinity+outage&tz=420"
+        },
+        {
+          "title": "is fortnite down",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=is+fortnite+down&tz=420"
+        },
+        {
+          "title": "lauren alaina",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lauren+alaina&tz=420"
+        },
+        {
+          "title": "warner bros",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=warner+bros&tz=420"
+        },
+        {
+          "title": "ford recalls bronco sport",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ford+recalls+bronco+sport&tz=420"
+        },
+        {
+          "title": "lady a",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lady+a&tz=420"
+        },
+        {
+          "title": "deals and steals gma",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=deals+and+steals+gma&tz=420"
+        },
+        {
+          "title": "joy reid",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=joy+reid&tz=420"
+        },
+        {
+          "title": "truck accident lawyer",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=truck+accident+lawyer&tz=420"
+        },
+        {
+          "title": "nasdaq futures",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nasdaq+futures&tz=420"
+        },
+        {
+          "title": "porsha williams",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=porsha+williams&tz=420"
+        },
+        {
+          "title": "alison brown",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=alison+brown&tz=420"
+        },
+        {
+          "title": "smh",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=smh&tz=420"
+        },
+        {
+          "title": "mario barrios",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=mario+barrios&tz=420"
+        },
+        {
+          "title": "where to watch chicago bulls vs portland trail blazers",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=where+to+watch+chicago+bulls+vs+portland+trail+blazers&tz=420"
+        },
+        {
+          "title": "kevin durant",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=kevin+durant&tz=420"
+        },
+        {
+          "title": "la granja vip",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=la+granja+vip&tz=420"
+        },
+        {
+          "title": "reacher season 4",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=reacher+season+4&tz=420"
+        },
+        {
+          "title": "sofia vergara",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sofia+vergara&tz=420"
+        },
+        {
+          "title": "jordan davis",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=jordan+davis&tz=420"
+        },
+        {
+          "title": "david coit",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=david+coit&tz=420"
+        },
+        {
+          "title": "denver nuggets vs new orleans pelicans match player stats",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=denver+nuggets+vs+new+orleans+pelicans+match+player+stats&tz=420"
+        },
+        {
+          "title": "karl-anthony towns",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=karl-anthony+towns&tz=420"
+        },
+        {
+          "title": "fort worth weather",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fort+worth+weather&tz=420"
+        },
+        {
+          "title": "wrongful death lawyer",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=wrongful+death+lawyer&tz=420"
+        },
+        {
+          "title": "miley cyrus",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=miley+cyrus&tz=420"
+        },
+        {
+          "title": "where is riley green from",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=where+is+riley+green+from&tz=420"
+        },
+        {
+          "title": "lenovo",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=lenovo&tz=420"
+        },
+        {
+          "title": "simon walker",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=simon+walker&tz=420"
+        },
+        {
+          "title": "spotify wrapped 2025",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=spotify+wrapped+2025&tz=420"
+        },
+        {
+          "title": "ella langley boyfriend",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=ella+langley+boyfriend&tz=420"
+        },
+        {
+          "title": "personal injury attorneys",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=personal+injury+attorneys&tz=420"
+        },
+        {
+          "title": "bulls score",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=bulls+score&tz=420"
+        },
+        {
+          "title": "allied universal",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=allied+universal&tz=420"
+        },
+        {
+          "title": "financial",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=financial&tz=420"
+        },
+        {
+          "title": "la granja vip votar",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=la+granja+vip+votar&tz=420"
+        },
+        {
+          "title": "quentin tarantino",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=quentin+tarantino&tz=420"
+        },
+        {
+          "title": "chris brown",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=chris+brown&tz=420"
+        },
+        {
+          "title": "dallas cowboys football",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=dallas+cowboys+football&tz=420"
+        },
+        {
+          "title": "sam rockwell",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sam+rockwell&tz=420"
+        },
+        {
+          "title": "sarah hurwitz",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sarah+hurwitz&tz=420"
+        },
+        {
+          "title": "wral news",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=wral+news&tz=420"
+        },
+        {
+          "title": "heat miami",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=heat+miami&tz=420"
+        },
+        {
+          "title": "fifa world cup 2026",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fifa+world+cup+2026&tz=420"
+        },
+        {
+          "title": "oilers",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=oilers&tz=420"
+        },
+        {
+          "title": "walter isaacson",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=walter+isaacson&tz=420"
+        },
+        {
+          "title": "covid symptoms 2025",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=covid+symptoms+2025&tz=420"
+        },
+        {
+          "title": "odell beckham jr",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=odell+beckham+jr&tz=420"
+        },
+        {
+          "title": "stephen wilson jr.",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=stephen+wilson+jr.&tz=420"
+        },
+        {
+          "title": "401k",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=401k&tz=420"
+        },
+        {
+          "title": "idina menzel",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=idina+menzel&tz=420"
+        },
+        {
+          "title": "tiago splitter",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=tiago+splitter&tz=420"
+        },
+        {
+          "title": "sacramento kings vs oklahoma city thunder match player stats",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=sacramento+kings+vs+oklahoma+city+thunder+match+player+stats&tz=420"
+        },
+        {
+          "title": "spectrum outage",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=spectrum+outage&tz=420"
+        },
+        {
+          "title": "vince gill eagles",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=vince+gill+eagles&tz=420"
+        },
+        {
+          "title": "brandin podziemski",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=brandin+podziemski&tz=420"
+        },
+        {
+          "title": "the big short",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=the+big+short&tz=420"
+        },
+        {
+          "title": "will hardy",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=will+hardy&tz=420"
+        },
+        {
+          "title": "personal injury attorney",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=personal+injury+attorney&tz=420"
+        },
+        {
+          "title": "gofundme",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=gofundme&tz=420"
+        },
+        {
+          "title": "nike shoes",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=nike+shoes&tz=420"
+        },
+        {
+          "title": "fast and furious",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=fast+and+furious&tz=420"
+        },
+        {
+          "title": "hunter schafer",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=hunter+schafer&tz=420"
+        },
+        {
+          "title": "accident lawyer",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=US&hl=en&q=accident+lawyer&tz=420"
+        }
+      ]
+    },
+    {
+      "code": "GB",
+      "label": "United Kingdom",
+      "searches": [
+        {
+          "title": "mani",
+          "traffic": "200,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=mani&tz=420"
+        },
+        {
+          "title": "spencer lofranco",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=spencer+lofranco&tz=420"
+        },
+        {
+          "title": "sports",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=sports&tz=420"
+        },
+        {
+          "title": "uk immigration rules",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=uk+immigration+rules&tz=420"
+        },
+        {
+          "title": "aus vs eng",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=aus+vs+eng&tz=420"
+        },
+        {
+          "title": "sunrise on the reaping",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=sunrise+on+the+reaping&tz=420"
+        },
+        {
+          "title": "gino d'acampo",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=gino+d%27acampo&tz=420"
+        },
+        {
+          "title": "grinch christmas menu",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=grinch+christmas+menu&tz=420"
+        },
+        {
+          "title": "chelsea vs barcelona",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=chelsea+vs+barcelona&tz=420"
+        },
+        {
+          "title": "asda sale",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=asda+sale&tz=420"
+        },
+        {
+          "title": "tom i'm a celeb",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=tom+i%27m+a+celeb&tz=420"
+        },
+        {
+          "title": "golden joystick awards 2025",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=golden+joystick+awards+2025&tz=420"
+        },
+        {
+          "title": "miss universe 2025",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=miss+universe+2025&tz=420"
+        },
+        {
+          "title": "nnamdi kanu",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=nnamdi+kanu&tz=420"
+        },
+        {
+          "title": "texans vs bills",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=texans+vs+bills&tz=420"
+        },
+        {
+          "title": "cosmopolitan",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=cosmopolitan&tz=420"
+        },
+        {
+          "title": "peterborough vs stockport",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=peterborough+vs+stockport&tz=420"
+        },
+        {
+          "title": "chadwick boseman",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=chadwick+boseman&tz=420"
+        },
+        {
+          "title": "greyhound",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=greyhound&tz=420"
+        },
+        {
+          "title": "james franco",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=james+franco&tz=420"
+        },
+        {
+          "title": "the death of bunny munro",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=the+death+of+bunny+munro&tz=420"
+        },
+        {
+          "title": "brendan doggett",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=brendan+doggett&tz=420"
+        },
+        {
+          "title": "monty panesar mastermind",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=monty+panesar+mastermind&tz=420"
+        },
+        {
+          "title": "freddy's frozen custard & steakburgers",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=freddy%27s+frozen+custard+%26+steakburgers&tz=420"
+        },
+        {
+          "title": "playstation 5",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=playstation+5&tz=420"
+        },
+        {
+          "title": "playstation",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=playstation&tz=420"
+        },
+        {
+          "title": "tnt sports",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=tnt+sports&tz=420"
+        },
+        {
+          "title": "birmingham city new stadium",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=birmingham+city+new+stadium&tz=420"
+        },
+        {
+          "title": "baroness hallett",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=baroness+hallett&tz=420"
+        },
+        {
+          "title": "test match special",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=test+match+special&tz=420"
+        },
+        {
+          "title": "world cup play off draw",
+          "traffic": "20,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=world+cup+play+off+draw&tz=420"
+        },
+        {
+          "title": "strictly star arrested",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=strictly+star+arrested&tz=420"
+        },
+        {
+          "title": "olusegun awolowo",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=olusegun+awolowo&tz=420"
+        },
+        {
+          "title": "bucks vs 76ers",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=bucks+vs+76ers&tz=420"
+        },
+        {
+          "title": "glasgow trains cancelled",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=glasgow+trains+cancelled&tz=420"
+        },
+        {
+          "title": "magic vs clippers",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=magic+vs+clippers&tz=420"
+        },
+        {
+          "title": "sue johnston",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=sue+johnston&tz=420"
+        },
+        {
+          "title": "nuno markl",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=nuno+markl&tz=420"
+        },
+        {
+          "title": "spurs vs hawks",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=spurs+vs+hawks&tz=420"
+        },
+        {
+          "title": "ilr",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=ilr&tz=420"
+        },
+        {
+          "title": "lloyd russell-moyle",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=lloyd+russell-moyle&tz=420"
+        },
+        {
+          "title": "who is vogue williams married to",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=who+is+vogue+williams+married+to&tz=420"
+        },
+        {
+          "title": "wicked",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=wicked&tz=420"
+        },
+        {
+          "title": "arman tsarukyan",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=arman+tsarukyan&tz=420"
+        },
+        {
+          "title": "after the hunt",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=after+the+hunt&tz=420"
+        },
+        {
+          "title": "grace dent",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=grace+dent&tz=420"
+        },
+        {
+          "title": "aitch",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=aitch&tz=420"
+        },
+        {
+          "title": "wicked part 2",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=wicked+part+2&tz=420"
+        },
+        {
+          "title": "fernandinho",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=fernandinho&tz=420"
+        },
+        {
+          "title": "cop30",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=cop30&tz=420"
+        },
+        {
+          "title": "molly race across the world",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=molly+race+across+the+world&tz=420"
+        },
+        {
+          "title": "itvx",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=itvx&tz=420"
+        },
+        {
+          "title": "tom wilson",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=tom+wilson&tz=420"
+        },
+        {
+          "title": "molly rainford",
+          "traffic": "10,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=molly+rainford&tz=420"
+        },
+        {
+          "title": "manny",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=manny&tz=420"
+        },
+        {
+          "title": "corinthians vs são paulo",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=corinthians+vs+s%C3%A3o+paulo&tz=420"
+        },
+        {
+          "title": "jackson hastings",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=jackson+hastings&tz=420"
+        },
+        {
+          "title": "thermostat",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=thermostat&tz=420"
+        },
+        {
+          "title": "cma awards 2025",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=cma+awards+2025&tz=420"
+        },
+        {
+          "title": "josh babarinde",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=josh+babarinde&tz=420"
+        },
+        {
+          "title": "ginger johnson",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=ginger+johnson&tz=420"
+        },
+        {
+          "title": "beaujolais day 2025",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=beaujolais+day+2025&tz=420"
+        },
+        {
+          "title": "sl vs zim",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=sl+vs+zim&tz=420"
+        },
+        {
+          "title": "christian fuchs",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=christian+fuchs&tz=420"
+        },
+        {
+          "title": "man on the inside",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=man+on+the+inside&tz=420"
+        },
+        {
+          "title": "how old is kelly brook",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=how+old+is+kelly+brook&tz=420"
+        },
+        {
+          "title": "new caledonia",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=new+caledonia&tz=420"
+        },
+        {
+          "title": "brendan fraser",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=brendan+fraser&tz=420"
+        },
+        {
+          "title": "el salvador",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=el+salvador&tz=420"
+        },
+        {
+          "title": "kelly brooke",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=kelly+brooke&tz=420"
+        },
+        {
+          "title": "peep show bake off",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=peep+show+bake+off&tz=420"
+        },
+        {
+          "title": "martin bashir",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=martin+bashir&tz=420"
+        },
+        {
+          "title": "prince",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=prince&tz=420"
+        },
+        {
+          "title": "chase stokes",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=chase+stokes&tz=420"
+        },
+        {
+          "title": "celebrity masterchef 2025",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=celebrity+masterchef+2025&tz=420"
+        },
+        {
+          "title": "family man season 3",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=family+man+season+3&tz=420"
+        },
+        {
+          "title": "amber alert",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=amber+alert&tz=420"
+        },
+        {
+          "title": "kirsty buchan",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=kirsty+buchan&tz=420"
+        },
+        {
+          "title": "george best",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=george+best&tz=420"
+        },
+        {
+          "title": "kelly brook age",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=kelly+brook+age&tz=420"
+        },
+        {
+          "title": "declan donnelly",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=declan+donnelly&tz=420"
+        },
+        {
+          "title": "callum beattie",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=callum+beattie&tz=420"
+        },
+        {
+          "title": "nano banana pro",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=nano+banana+pro&tz=420"
+        },
+        {
+          "title": "peterborough",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=peterborough&tz=420"
+        },
+        {
+          "title": "thundersnow",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=thundersnow&tz=420"
+        },
+        {
+          "title": "karoline leavitt",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=karoline+leavitt&tz=420"
+        },
+        {
+          "title": "honduras",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=honduras&tz=420"
+        },
+        {
+          "title": "itv x",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=itv+x&tz=420"
+        },
+        {
+          "title": "molly mae",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=molly+mae&tz=420"
+        },
+        {
+          "title": "czech republic",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=czech+republic&tz=420"
+        },
+        {
+          "title": "bangladesh vs ireland",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=bangladesh+vs+ireland&tz=420"
+        },
+        {
+          "title": "roman kemp",
+          "traffic": "5,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=roman+kemp&tz=420"
+        },
+        {
+          "title": "pga tour",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=pga+tour&tz=420"
+        },
+        {
+          "title": "juventude vs cruzeiro",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=juventude+vs+cruzeiro&tz=420"
+        },
+        {
+          "title": "daisy ridley",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=daisy+ridley&tz=420"
+        },
+        {
+          "title": "lucy bronze",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=lucy+bronze&tz=420"
+        },
+        {
+          "title": "buckingham palace christmas market",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=buckingham+palace+christmas+market&tz=420"
+        },
+        {
+          "title": "miley cyrus",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=miley+cyrus&tz=420"
+        },
+        {
+          "title": "george kurtz",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=george+kurtz&tz=420"
+        },
+        {
+          "title": "vogue williams net worth",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=vogue+williams+net+worth&tz=420"
+        },
+        {
+          "title": "online lottery",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=online+lottery&tz=420"
+        },
+        {
+          "title": "wizard of oz",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=wizard+of+oz&tz=420"
+        },
+        {
+          "title": "aitch net worth",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=aitch+net+worth&tz=420"
+        },
+        {
+          "title": "ant and dec",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=ant+and+dec&tz=420"
+        },
+        {
+          "title": "matt hancock",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=matt+hancock&tz=420"
+        },
+        {
+          "title": "nasdaq",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=nasdaq&tz=420"
+        },
+        {
+          "title": "pickering",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=pickering&tz=420"
+        },
+        {
+          "title": "nathan carman",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=nathan+carman&tz=420"
+        },
+        {
+          "title": "cove holiday parks administration",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=cove+holiday+parks+administration&tz=420"
+        },
+        {
+          "title": "ring",
+          "traffic": "2,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=ring&tz=420"
+        },
+        {
+          "title": "real madrid vs žalgiris",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=real+madrid+vs+%C5%BEalgiris&tz=420"
+        },
+        {
+          "title": "wicked movie",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=wicked+movie&tz=420"
+        },
+        {
+          "title": "peter crouch",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=peter+crouch&tz=420"
+        },
+        {
+          "title": "emmerdale",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=emmerdale&tz=420"
+        },
+        {
+          "title": "julia roberts",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=julia+roberts&tz=420"
+        },
+        {
+          "title": "sadio mane",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=sadio+mane&tz=420"
+        },
+        {
+          "title": "where is i'm a celeb filmed",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=where+is+i%27m+a+celeb+filmed&tz=420"
+        },
+        {
+          "title": "bt",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=bt&tz=420"
+        },
+        {
+          "title": "paddy pimblett",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=paddy+pimblett&tz=420"
+        },
+        {
+          "title": "essex police",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=essex+police&tz=420"
+        },
+        {
+          "title": "amazon stargate series",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=amazon+stargate+series&tz=420"
+        },
+        {
+          "title": "gavin and stacey",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=gavin+and+stacey&tz=420"
+        },
+        {
+          "title": "loughborough",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=loughborough&tz=420"
+        },
+        {
+          "title": "amanda holden",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=amanda+holden&tz=420"
+        },
+        {
+          "title": "utilita arena birmingham",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=utilita+arena+birmingham&tz=420"
+        },
+        {
+          "title": "czech republic football",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=czech+republic+football&tz=420"
+        },
+        {
+          "title": "the beast in me cast",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=the+beast+in+me+cast&tz=420"
+        },
+        {
+          "title": "josh newbury",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=josh+newbury&tz=420"
+        },
+        {
+          "title": "alan cumming",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=alan+cumming&tz=420"
+        },
+        {
+          "title": "brandi carlile",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=brandi+carlile&tz=420"
+        },
+        {
+          "title": "are aitch and angry ginge friends",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=are+aitch+and+angry+ginge+friends&tz=420"
+        },
+        {
+          "title": "lewis emmerdale",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=lewis+emmerdale&tz=420"
+        },
+        {
+          "title": "love actually",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=love+actually&tz=420"
+        },
+        {
+          "title": "tuvalu",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=tuvalu&tz=420"
+        },
+        {
+          "title": "shirley kemp",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=shirley+kemp&tz=420"
+        },
+        {
+          "title": "enoch burke",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=enoch+burke&tz=420"
+        },
+        {
+          "title": "tom holland",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=tom+holland&tz=420"
+        },
+        {
+          "title": "mrs hinch",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=mrs+hinch&tz=420"
+        },
+        {
+          "title": "sylvester stallone",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=sylvester+stallone&tz=420"
+        },
+        {
+          "title": "alexis warr",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=alexis+warr&tz=420"
+        },
+        {
+          "title": "weather hull",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=weather+hull&tz=420"
+        },
+        {
+          "title": "russian spy",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=russian+spy&tz=420"
+        },
+        {
+          "title": "thanksgiving",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=thanksgiving&tz=420"
+        },
+        {
+          "title": "mavericks vs knicks",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=mavericks+vs+knicks&tz=420"
+        },
+        {
+          "title": "constellation",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=constellation&tz=420"
+        },
+        {
+          "title": "aberdeen airport",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=aberdeen+airport&tz=420"
+        },
+        {
+          "title": "aj odudu",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=aj+odudu&tz=420"
+        },
+        {
+          "title": "zoe slater",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=zoe+slater&tz=420"
+        },
+        {
+          "title": "trail blazers vs bulls",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=trail+blazers+vs+bulls&tz=420"
+        },
+        {
+          "title": "supreme",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=supreme&tz=420"
+        },
+        {
+          "title": "end of the road festival",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=end+of+the+road+festival&tz=420"
+        },
+        {
+          "title": "nicola sturgeon",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=nicola+sturgeon&tz=420"
+        },
+        {
+          "title": "stv",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=stv&tz=420"
+        },
+        {
+          "title": "nintendo switch 2",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=nintendo+switch+2&tz=420"
+        },
+        {
+          "title": "the family stone",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=the+family+stone&tz=420"
+        },
+        {
+          "title": "ipad",
+          "traffic": "1,000+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=ipad&tz=420"
+        },
+        {
+          "title": "emmerdale tonight",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=emmerdale+tonight&tz=420"
+        },
+        {
+          "title": "aberdeen",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=aberdeen&tz=420"
+        },
+        {
+          "title": "steam down",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=steam+down&tz=420"
+        },
+        {
+          "title": "cornwall live",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=cornwall+live&tz=420"
+        },
+        {
+          "title": "dollywood",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=dollywood&tz=420"
+        },
+        {
+          "title": "btc",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=btc&tz=420"
+        },
+        {
+          "title": "ari gisell",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=ari+gisell&tz=420"
+        },
+        {
+          "title": "taylor swift uk",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=taylor+swift+uk&tz=420"
+        },
+        {
+          "title": "jessie j",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=jessie+j&tz=420"
+        },
+        {
+          "title": "manny pacquiao",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=manny+pacquiao&tz=420"
+        },
+        {
+          "title": "twins",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=twins&tz=420"
+        },
+        {
+          "title": "patagonia",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=patagonia&tz=420"
+        },
+        {
+          "title": "jelly roll",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=jelly+roll&tz=420"
+        },
+        {
+          "title": "danny dyer",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=danny+dyer&tz=420"
+        },
+        {
+          "title": "santos",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=santos&tz=420"
+        },
+        {
+          "title": "wes anderson",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=wes+anderson&tz=420"
+        },
+        {
+          "title": "penarth",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=penarth&tz=420"
+        },
+        {
+          "title": "stockport",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=stockport&tz=420"
+        },
+        {
+          "title": "newcastle airport",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=newcastle+airport&tz=420"
+        },
+        {
+          "title": "bahia vs fortaleza",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=bahia+vs+fortaleza&tz=420"
+        },
+        {
+          "title": "dfe apology statement",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=dfe+apology+statement&tz=420"
+        },
+        {
+          "title": "pelicans vs nuggets",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=pelicans+vs+nuggets&tz=420"
+        },
+        {
+          "title": "arc raiders server status",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=arc+raiders+server+status&tz=420"
+        },
+        {
+          "title": "ripley's believe it or not",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=ripley%27s+believe+it+or+not&tz=420"
+        },
+        {
+          "title": "kirby air riders",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=kirby+air+riders&tz=420"
+        },
+        {
+          "title": "joe rothwell",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=joe+rothwell&tz=420"
+        },
+        {
+          "title": "myleene klass",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=myleene+klass&tz=420"
+        },
+        {
+          "title": "pembrokeshire county council",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=pembrokeshire+county+council&tz=420"
+        },
+        {
+          "title": "pembrokeshire school closures",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=pembrokeshire+school+closures&tz=420"
+        },
+        {
+          "title": "uefa",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=uefa&tz=420"
+        },
+        {
+          "title": "alexander armstrong",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=alexander+armstrong&tz=420"
+        },
+        {
+          "title": "thunder vs kings",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=thunder+vs+kings&tz=420"
+        },
+        {
+          "title": "suriname",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=suriname&tz=420"
+        },
+        {
+          "title": "russia ukraine war",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=russia+ukraine+war&tz=420"
+        },
+        {
+          "title": "nintendo switch",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=nintendo+switch&tz=420"
+        },
+        {
+          "title": "ozempic",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=ozempic&tz=420"
+        },
+        {
+          "title": "david gower",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=david+gower&tz=420"
+        },
+        {
+          "title": "giovanna fletcher",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=giovanna+fletcher&tz=420"
+        },
+        {
+          "title": "christmas jumper day",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=christmas+jumper+day&tz=420"
+        },
+        {
+          "title": "manchester evening news",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=manchester+evening+news&tz=420"
+        },
+        {
+          "title": "nme",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=nme&tz=420"
+        },
+        {
+          "title": "northern line",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=northern+line&tz=420"
+        },
+        {
+          "title": "costa rica",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=costa+rica&tz=420"
+        },
+        {
+          "title": "total chaos",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=total+chaos&tz=420"
+        },
+        {
+          "title": "worcester news",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=worcester+news&tz=420"
+        },
+        {
+          "title": "bradley riches",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=bradley+riches&tz=420"
+        },
+        {
+          "title": "olivia curley",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=olivia+curley&tz=420"
+        },
+        {
+          "title": "naga munchetty",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=naga+munchetty&tz=420"
+        },
+        {
+          "title": "chris hemsworth",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=chris+hemsworth&tz=420"
+        },
+        {
+          "title": "rs",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=rs&tz=420"
+        },
+        {
+          "title": "george clooney",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=george+clooney&tz=420"
+        },
+        {
+          "title": "a fairer pathway to settlement",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=a+fairer+pathway+to+settlement&tz=420"
+        },
+        {
+          "title": "airpods",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=airpods&tz=420"
+        },
+        {
+          "title": "my school",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=my+school&tz=420"
+        },
+        {
+          "title": "xbox series x",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=xbox+series+x&tz=420"
+        },
+        {
+          "title": "kym marsh",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=kym+marsh&tz=420"
+        },
+        {
+          "title": "nikkei 225",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=nikkei+225&tz=420"
+        },
+        {
+          "title": "weather birmingham",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=weather+birmingham&tz=420"
+        },
+        {
+          "title": "switch 2",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=switch+2&tz=420"
+        },
+        {
+          "title": "mike lynch",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=mike+lynch&tz=420"
+        },
+        {
+          "title": "tony blair",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=tony+blair&tz=420"
+        },
+        {
+          "title": "bethany peaty",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=bethany+peaty&tz=420"
+        },
+        {
+          "title": "bbc newsround",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=bbc+newsround&tz=420"
+        },
+        {
+          "title": "cynthia erivo",
+          "traffic": "500+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=cynthia+erivo&tz=420"
+        },
+        {
+          "title": "sunderland weather",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=sunderland+weather&tz=420"
+        },
+        {
+          "title": "games workshop",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=games+workshop&tz=420"
+        },
+        {
+          "title": "plymouth weather",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=plymouth+weather&tz=420"
+        },
+        {
+          "title": "fifa rankings",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=fifa+rankings&tz=420"
+        },
+        {
+          "title": "hotels",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=hotels&tz=420"
+        },
+        {
+          "title": "pete wicks",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=pete+wicks&tz=420"
+        },
+        {
+          "title": "stanley",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=stanley&tz=420"
+        },
+        {
+          "title": "christmas songs",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=christmas+songs&tz=420"
+        },
+        {
+          "title": "edinburgh airport",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=edinburgh+airport&tz=420"
+        },
+        {
+          "title": "ninja air fryer",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=ninja+air+fryer&tz=420"
+        },
+        {
+          "title": "apple watch",
+          "traffic": "200+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=apple+watch&tz=420"
+        },
+        {
+          "title": "ivy league schools",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=ivy+league+schools&tz=420"
+        },
+        {
+          "title": "bolton news",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=bolton+news&tz=420"
+        },
+        {
+          "title": "weather leeds",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=weather+leeds&tz=420"
+        },
+        {
+          "title": "bitcoin price usd",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=bitcoin+price+usd&tz=420"
+        },
+        {
+          "title": "ben stokes",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=ben+stokes&tz=420"
+        },
+        {
+          "title": "sheffield weather",
+          "traffic": "100+ searches",
+          "link": "https://serpapi.com/search.json?data_type=TIMESERIES&date=now+1-d&engine=google_trends&geo=GB&hl=en&q=sheffield+weather&tz=420"
+        }
+      ]
+    }
+  ]
+}
