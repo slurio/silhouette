@@ -1,18 +1,5 @@
-# React + Vite + TypeScript + Vitest Template
+# Silhouette
 
-A clean, minimal React starter using Vite and TypeScript, preconfigured with:
+A work-in-progress fashion trends dashboard built with React, Vite, TypeScript, and Vitest.
 
-- React 19 + Vite
-- TypeScript
-- ESLint + Prettier
-- Vitest
-- React Testing Library
-- jest-dom matchers
-- Example component and test
-
-## Quick Start
-
-```bash
-yarn        # install dependencies
-yarn dev    # start the dev server
-yarn test   # run tests
+More details coming soon.
