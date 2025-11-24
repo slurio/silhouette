@@ -1,5 +1,7 @@
 import { useEffect, useState } from 'react';
 
+import styles from './Dashboard.module.css';
+
 type TrendSearch = {
   title: string;
   traffic: string;
@@ -51,10 +53,10 @@ function Dashboard() {
   const currentRegion = data?.regions.find((region) => region.code === selectedRegion) ?? null;
 
   return (
-    <div style={{ padding: '2rem' }}>
-      <header style={{ marginBottom: '2rem' }}>
-        <h1 style={{ fontSize: '2rem', fontWeight: 700 }}>Silhouette</h1>
-        <p style={{ marginTop: '0.5rem' }}>A live snapshot of trending fashion-related searches.</p>
+    <div style={styles}>
+      <header>
+        <h1 className={styles.header}>Silhouette</h1>
+        <p className={styles.subtitle}>A live snapshot of trending fashion-related searches.</p>
         {data?.updatedAt && (
           <p style={{ marginTop: '0.25rem', fontSize: '0.85rem', color: '#888' }}>
             Last updated: {new Date(data.updatedAt).toLocaleString()}
@@ -64,7 +66,7 @@ function Dashboard() {
 
       <main>
         {loading && <p>Loading trend data…</p>}
-        {error && <p style={{ color: 'red' }}>{error}</p>}
+        {error && <p className={styles.error}>{error}</p>}
 
         {!loading && !error && data && (
           <>

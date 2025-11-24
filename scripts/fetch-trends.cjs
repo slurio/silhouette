@@ -43,17 +43,18 @@ async function fetchTrendingForRegion(regionCode) {
   // SerpAPI returns an array under `trending_searches`
   const rawSearches = data.trending_searches || [];
 
- const searches = rawSearches.map((item) => ({
-  title: item.query || '',
+  const searches = rawSearches.map((item) => ({
+    title: item.query || '',
 
-  // make search volume human-readable if present
-  traffic: typeof item.search_volume === 'number'
-    ? `${item.search_volume.toLocaleString()}+ searches`
-    : '',
+    // make search volume human-readable if present
+    traffic:
+      typeof item.search_volume === 'number'
+        ? `${item.search_volume.toLocaleString()}+ searches`
+        : '',
 
-  // link to a trends view (SerpAPI's own link)
-  link: item.serpapi_google_trends_link || '',
-}));
+    // link to a trends view (SerpAPI's own link)
+    link: item.serpapi_google_trends_link || '',
+  }));
 
   return searches;
 }
