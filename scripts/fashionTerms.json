@@ -1,0 +1,17 @@
+[
+  { "id": "polka_dot", "query": "polka dot", "label": "Polka dot", "category": "Print" },
+  { "id": "gingham", "query": "gingham", "label": "Gingham", "category": "Print" },
+  { "id": "plaid", "query": "plaid", "label": "Plaid", "category": "Print" },
+  { "id": "tartan", "query": "tartan", "label": "Tartan", "category": "Print" },
+  { "id": "argyle", "query": "argyle", "label": "Argyle", "category": "Print" },
+  { "id": "houndstooth", "query": "houndstooth", "label": "Houndstooth", "category": "Print" },
+  { "id": "herringbone", "query": "herringbone", "label": "Herringbone", "category": "Print" },
+  { "id": "checkerboard", "query": "checkerboard", "label": "Checkerboard", "category": "Print" },
+  { "id": "chevron", "query": "chevron print", "label": "Chevron", "category": "Print" },
+  { "id": "pinstripe", "query": "pinstripe", "label": "Pinstripe", "category": "Print" },
+  { "id": "paisley", "query": "paisley", "label": "Paisley", "category": "Print" },
+  { "id": "floral", "query": "floral", "label": "Floral", "category": "Print" },
+  { "id": "cheetah", "query": "cheetah", "label": "Cheetah", "category": "Print" },
+  { "id": "camo", "query": "camo", "label": "Camo", "category": "Print" },
+  { "id": "ombre", "query": "ombre", "label": "Ombre", "category": "Print" }
+]
